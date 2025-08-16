@@ -17,7 +17,7 @@
 
 ## 🔗 Connect with Me
 
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <a href="https://www.linkedin.com/in/upendra-kumar-dubey-60234a238" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -27,7 +27,7 @@
 
 ## 💻 Languages and Tools
 
-<p align="center">
+<p align="center" style="margin-top: -10px;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
@@ -53,19 +53,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upendra070&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upendra070&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=upendra070&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=upendra070&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=upendra070&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=upendra070&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-<p align="center">
+<p align="center" style="margin-top: -20px;">
   ⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me!
 </p>
